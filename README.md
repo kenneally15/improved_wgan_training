@@ -25,7 +25,7 @@ download URL is in the file.
 - `python gan_language.py`: Character-level language model
 - `python gan_cifar.py`: CIFAR-10
 
-# Improved Metric
+## Improved Metric
 
 Algorithm 1 Battacharyya-GAN, our proposed algorithm. 
 Require: alpha, the learning rate. c, the clipping parameter. m, the batch size.  n, the number of iterations of the critic per generator iteration. 
